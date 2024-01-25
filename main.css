@@ -2,7 +2,9 @@ header{
     height: 250px;
     background-color: #12e6ee;
     border-radius: 10px;
-}
+    background-image: url(https://images.pexels.com/photos/15861750/pexels-photo-15861750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}  
 
 main{
     min-height: 800px;
